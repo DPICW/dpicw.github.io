@@ -23,7 +23,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-#*****************************************************************
+# Header 1
+## Header 2
+### Header 3
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
